@@ -1,0 +1,16 @@
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.exe
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.deps.json
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.dll
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ref\ReverseString.dll
+C:\Users\tillt\Documents\Projects\ReverseString\bin\Debug\net5.0\ReverseString.pdb
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.csprojAssemblyReference.cache
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.dll
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ref\ReverseString.dll
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.pdb
+C:\Users\tillt\Documents\Projects\ReverseString\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache
